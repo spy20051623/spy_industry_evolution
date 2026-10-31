@@ -1,0 +1,9 @@
+{
+  "modId": "spy_industry_evolution",
+  "revision": 5,
+  "severityAdd": "Warning",
+  "severityRemove": "Warning",
+  "visible": true,
+  "cosmetic": false,
+  "runScript": { "fileName": "spy_industry_evolution::/growth_mod.script@run" }
+}
